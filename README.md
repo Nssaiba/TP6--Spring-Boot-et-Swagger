@@ -1,4 +1,6 @@
-Test des API sur Postman
+<h2 style="font-size: 28px; color: #2c3e50; text-align: center; margin-top: 30px; text-transform: uppercase; letter-spacing: 1px;">
+ Test des API sur Postman
+</h2>
 
 <b>Test de l’ajout d’un étudiant (POST)</b>
 <img width="1920" height="772" alt="postman2PNG" src="https://github.com/user-attachments/assets/c583de9b-3f2f-4bf3-8bb3-64b75772796a" />
